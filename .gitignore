@@ -1,0 +1,6 @@
+.DS_Store
+shadow-notes.json
+_registry.json
+_影子索引.jsonl
+__pycache__/
+*.pyc
